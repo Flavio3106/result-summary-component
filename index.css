@@ -212,6 +212,11 @@ body {
     justify-content: space-between;
   }
 
+  .circle {
+    width: 120px;
+    height: 120px;
+  }
+
   .score {
     font-size: 18px;
   }
